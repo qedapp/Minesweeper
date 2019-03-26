@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Minesweeper": {
+      "commandName": "Project",
+      "commandLineArgs": "10 10 10"
+    }
+  }
+}
